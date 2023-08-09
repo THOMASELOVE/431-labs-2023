@@ -32,8 +32,6 @@ Your response to **every** question, whether we explicitly ask for it or not, sh
 
 Each set of Lab instructions provides details on how to submit your work. Mostly, this is done through the Assignments folder in [Canvas](https://canvas.case.edu/), but check the instructions.
 
-# After The Lab Deadline Has Passed
-
 ## Grading
 
 - Labs 1-7 are graded by the TAs and then reviewed by Dr. Love. Your grades will be available approximately one week after the Lab deadline. 

@@ -18,7 +18,6 @@ Lab information for 431 in Fall 2023
 06 | to appear | details to appear | details to appear
 07 | to appear | details to appear | details to appear
 Lab X | to appear | details to appear | details to appear
-Lab Y | to appear | details to appear | details to appear
 
 ## Getting Help During The Lab
 

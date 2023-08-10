@@ -13,11 +13,11 @@ Lab information for 431 in Fall 2023
 01 | [Lab 01 Instructions](lab01/lab01.pdf) | none required | posted to [431-data](https://github.com/THOMASELOVE/431-data)
 02 | [Lab 02 Instructions](lab02/lab02.pdf) | posted to [431-data](https://github.com/THOMASELOVE/431-data) | posted to [431-data](https://github.com/THOMASELOVE/431-data)
 03 | [Lab 03 Instructions](lab03/lab03.pdf) | posted to [431-data](https://github.com/THOMASELOVE/431-data) | posted to [431-data](https://github.com/THOMASELOVE/431-data)
-04 | to appear | details to appear | details to appear
-05 | to appear | details to appear | details to appear
-06 | to appear | details to appear | details to appear
-07 | to appear | details to appear | details to appear
-Lab X | to appear | details to appear | details to appear
+04 | [Lab 04 Instructions](lab04/lab04.pdf) | none required | none provided
+05 | to appear | details to appear | none provided
+06 | to appear | details to appear | none provided
+07 | to appear | details to appear | none provided
+Lab X | to appear | not relevant | not relevant
 
 ## Getting Help During The Lab
 

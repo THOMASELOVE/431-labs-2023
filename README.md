@@ -25,7 +25,7 @@ You are welcome to discuss each Lab with Professor Love, the teaching assistants
 
 ## An Important Note
 
-Your response to **every** question, whether we explicitly ask for it or not, should include a complete English sentence responding to the question. Code alone is not a sufficient response, even if the code is correct. Some responses might not need any code, but every response needs at least one complete sentence.
+Your response to **every** question, unless we explicitly say that is isn't required in the instructions, should include at least one complete English sentence responding to the question. Code alone is not a sufficient response, even if the code is correct. Some responses might not need any code, but every response needs at least one complete sentence.
 
 ## Submitting Your Work
 

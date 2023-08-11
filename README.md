@@ -37,7 +37,7 @@ Each set of Lab instructions provides details on how to submit your work. Mostly
 ## Grading
 
 - Labs 1-7 are graded by the TAs and then reviewed by Dr. Love. Your grades will be available approximately one week after the Lab deadline. 
-- Dr. Love reviews the Bonus Lab X and Lab Y submissions personally.
+- Dr. Love reviews the [Lab X](https://thomaselove.github.io/431-labX/) personally.
  
 **Grades on Labs** (and our records about minute papers) appear as they become available in the 431 Grades Roster. 
   - You'll receive instructions to access this document after Lab 1's grades are available.

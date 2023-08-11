@@ -59,7 +59,7 @@ As each Lab passes its deadline (as listed in the [Course Calendar](https://thom
 
 ## Lab Regrade Requests will be reviewed in December
 
-The Lab Regrade Request Form will be made available after Lab 1's grades are posted. 
+The [Lab Regrade Request Form](https://bit.ly/431-lab-regrade-form-2023) will open after Lab 1's grades are posted. 
 
 We use this form to handle almost all grading errors and regrade requests on Labs. The only exception to this policy is when you believe we've made an arithmetic error in summing up your points on a lab. If that happens, just email Dr. Love to get it straightened out. The Form is used for all other regrade situations.
 

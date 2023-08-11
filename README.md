@@ -4,7 +4,7 @@ Lab information for 431 in Fall 2023
 
 ## Main Lab Instructions
 
-- There are seven required Main Labs this semester (Labs 1-7) and two optional bonus Labs (Lab X and Lab Y).
+- There are seven required Main Labs this semester (Labs 1-7) and an optional bonus Lab ([Lab X](https://thomaselove.github.io/431-labX/)).
 - All necessary data and templates for Labs this semester can be downloaded by following the instructions at [our 431-data page](https://github.com/THOMASELOVE/431-data) or via the links provided below.
 - All Lab deadlines are provided in the [Course Calendar](https://thomaselove.github.io/431-2023/calendar.html).
 
@@ -17,7 +17,10 @@ Lab information for 431 in Fall 2023
 05 | to appear | details to appear | none provided
 06 | to appear | details to appear | none provided
 07 | to appear | details to appear | none provided
-Lab X | to appear | not relevant | not relevant
+
+## (optional) Lab X
+
+[Lab X](https://thomaselove.github.io/431-labX/) has its own [little website](https://thomaselove.github.io/431-labX/). We strongly encourage you all to take a look as soon as you can.
 
 ## Getting Help During The Lab
 
